@@ -20,7 +20,7 @@ public class BaseChromeUITest {
     @After
 
     public void teardown() {
-        //   driver.quit();
+        driver.quit();
     }
 
 }
